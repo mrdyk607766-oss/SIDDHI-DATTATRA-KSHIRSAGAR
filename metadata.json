@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Spark",
+  "description": "An interactive learning assistant that uses the Socratic method to help you master complex concepts through guided questioning instead of long lectures.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
